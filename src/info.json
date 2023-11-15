@@ -1,0 +1,10 @@
+{
+  "name": "auto-targeting-ion-cannon",
+  "version": "0.1.0",
+  "title": "Auto-Targeting Ion Cannon (SE Edition)",
+  "author": "KlecksKleckser",
+  "factorio_version": "1.1",
+  "dependencies": ["Kux-OrbitalIonCannon", "space-exploration"],
+  "contact": "karl.mike2002@gmail.com",
+  "description": "Script that automatically shoots your Ion cannons on random targets across all planets."
+}
